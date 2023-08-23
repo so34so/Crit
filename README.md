@@ -59,16 +59,16 @@ CRIT은 단순한 챌린지 서비스를 넘어, 참가자들이 '함께' 성장
 
 ---
 ### 시작페이지 & 회원가입 & 로그인
-![시작페이지-_-회원가입-_-로그인](https://github.com/so34so/crit/assets/76669772/9c4bb57f-d54e-49d8-9e31-ff1252718140)
+![회원가입](https://github.com/so34so/crit/assets/76669772/7e700f6d-e077-4396-a0f5-a2f2080f44f2)
 
 ### 메인페이지 & 커뮤니티
-![메인페이지-_-커뮤니티](/uploads/df56ff0b2d859114234ab40a5e281f8c/메인페이지-_-커뮤니티.gif)
+![메인페이지&커뮤니티](https://github.com/so34so/crit/assets/76669772/df2cb10b-d05a-4172-9e39-46a39b0b80ba)
 
 ### 프로필 & 메시지
-![프로필-_-메시지](/uploads/120a6cee7b899b8fe86bf1a80e2dcf57/프로필-_-메시지.gif)
+![프로필](https://github.com/so34so/crit/assets/76669772/553fe21e-ef75-4351-9ea9-b3fe19c4a239)
 
 ### 챌린지
-![프로필-_-메시지](/uploads/120a6cee7b899b8fe86bf1a80e2dcf57/프로필-_-메시지.gif)
+![챌린지](https://github.com/so34so/crit/assets/76669772/6a80deba-5eca-49f7-8d32-397dc5527b97)
 
 ## 기술 차별점
 
