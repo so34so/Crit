@@ -49,7 +49,7 @@
   "scripts": {
     "start": "react-scripts start",
     "build:openvidu-react": "npm install --prefix ../library/ && node library-copy.js && cd ../library && npm run create-library",
-    "build": "node --max-old-space-size=8192 node_modules/.bin/react-scripts build",
+    "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
