@@ -16,7 +16,9 @@ spring:
     url: ENC(qihMKg6zYTdikTfnLpRBJmbpz50SARIzIss4zJJ6bpqbRr01f2qqJ5H+vbXDJ+2HIVRn5PT9MlJtPmyG/OFksPYOALdB10r/U0bbaKKjitKPSHo90dnGhklj0lxjvi8fu2FUyFhcHUMDw3yPyRMaxIz2rfCJsWi1oMqqUEj0eKVoGPp594l0MVRcMW/ctIDm)
     username: ENC(hRfXeCa40I+Qpd2kYCK+xA==)
     password: ENC(Qd9+4oBCV72qipFXKrW7XRRpXH2el/3v)
-    driver-class-name: com.mysql.cj.jdbc.Driver
+    driver-class-name: org.mariadb.jdbc.Driver
+    hikari:
+      maximum-pool-size:1
   main:
     allow-circular-references: true
 
