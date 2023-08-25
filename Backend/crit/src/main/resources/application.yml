@@ -13,7 +13,7 @@ spring:
       max-file-size: 300MB
       max-request-size: 300MB
   datasource:
-    url: ENC(xvJ2J/A0seIZslYZwDgvYYMgei1WYsdH0gItOUXxiqzOTTR+y63AsNQXit8ZyElK7dXtFY0v1ZYh8mxBLeMLgrzsArcfW+DIcBccPoQniqsVDUPbCVtRvwuRF6/94tonCKhfg5U0LcFm9MvVRPXhW1EDWgS2Nxe+HLBiQozwmOhvJCgzvULqDrqr+nnltDaFGC74sPKjreU=)
+    url: ENC(h5Zh5NwcRW82oWvS1qZ163VX93r2IZwMp8KdMfWr95a+qD27ByrKArhupI5HV2lebAiUbsC+q0cBcBB5TyRCB0jZRadAEj58sXE9Z7aENJsRVSdPIkeXDUsRi+K/Ay9aypMTjZTCb9k2BsaphhOXN+WB5AgsfmyE6SyCtniTM9UbkcgiscAQxN4X6+rQkhnIuDdECE50vPU=)
     username: ENC(4HFI3e75tbg7bjUh9O/b9g==)
     password: ENC(Qd9+4oBCV72qipFXKrW7XRRpXH2el/3v)
     driver-class-name: com.mysql.cj.jdbc.Driver
